@@ -17,13 +17,13 @@
     "license": "MIT",
     "authors": [
       {
-        "name": "Philipp Mochine",
-        "email": "mail@philippmochine.com"
+        "name": "Sabatino Masala",
+        "email": "Masalasabatino@gmail.com"
       }
     ],
     "require": {
         "php": ">=7.2.0",
-        "vinkla/hashids": "^5.1||^6.0||^7.0||^8.0||^9.0"
+        "vinkla/hashids": "^5.1||^6.0||^7.0||^8.0||^9.0||^10.0"
     },
     "autoload": {
         "psr-4": {
